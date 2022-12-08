@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -E -o 2-assembler.o
