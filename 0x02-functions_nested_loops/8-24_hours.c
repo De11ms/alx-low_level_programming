@@ -36,7 +36,7 @@ while (h2 <= 2)
 				_putchar('0' + m2);
 				_putchar('0' + m1);
 				_putchar('\n');
-				m1++
+				m1++;
 			}
 			m2++;
 		}
