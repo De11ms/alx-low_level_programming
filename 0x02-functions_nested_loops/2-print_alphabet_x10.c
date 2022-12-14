@@ -3,10 +3,10 @@
  * main - entry
  *
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int i;
-	char j;
+	int j;
 
 	for (i = o; i < 10; i++)
 	{
