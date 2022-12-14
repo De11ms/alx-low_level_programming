@@ -10,7 +10,7 @@
 void print_to_98(int n)
 {
 	while (n < 98)
-		print("%1, ", n);
+		printf("%1, ", n);
 	n++;
 }
 while (n > 98)
