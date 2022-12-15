@@ -4,7 +4,7 @@
  * print_diagonal - draws diagonal line
  * @n: number of times diagonal drawn
  */
-void print_diagonal(int n);
+void print_diagonal(int n)
 {
 	int line, gap;
 
