@@ -2,6 +2,7 @@
 
 /**
  * print_most_numbers -> this prints most numbers
+ * Return: no return
  */
 void print_most_numbers(void);
 {
@@ -12,5 +13,5 @@ void print_most_numbers(void);
 		if (x != 2 && x != 4)
 			_putchar(x + '0');
 	}
-	_puchar('\n');
+	_putchar('\n');
 }
