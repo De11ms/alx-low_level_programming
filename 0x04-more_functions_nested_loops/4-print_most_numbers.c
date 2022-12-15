@@ -4,7 +4,7 @@
  * print_most_numbers -> this prints most numbers
  * Return: no return
  */
-void print_most_numbers(void);
+void print_most_numbers(void)
 {
 	int x;
 
