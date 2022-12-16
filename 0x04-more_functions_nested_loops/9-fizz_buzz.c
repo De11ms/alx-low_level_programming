@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	int;
+	int n;
 	n = 1;
 	printf("%d", n);
 	for (n = 2; n <= 100; n++)
@@ -30,5 +30,4 @@ int main(void)
 	}
 	printf("\n");
 	return (0);
-}
-}				
+}			
