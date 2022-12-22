@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include "main.h"
 
-/**
- * main - magic
- * Return: 0
- */
-
 int main(void)
 {
 	int n;
@@ -17,12 +12,11 @@ int main(void)
 /*
  * main - magic of numbers
  * write your line of code here...
- * remember:
- * main - magic of numbers
+ * Remember:
  * - you are not allowed to use a
- *   - you are not allowed to print p
- *   - only one statement
- *   you are not allowed to code anything else than this line of code
+ * - you are not allowed to print p
+ * - only one statement
+ * - you are not allowed to code anything else than this line of code
  */
 	*(p + 5) = 98;
 /*...so that this prints 98\n */
