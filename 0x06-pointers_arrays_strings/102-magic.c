@@ -1,4 +1,10 @@
 #include <stdio.h>
+#include "main.h"
+
+/**
+ * main - magic
+ * Return: 0
+ */
 
 int main(void)
 {
@@ -9,6 +15,7 @@ int main(void)
 	a[2] = 1024;
 	p = &n;
 /*
+ * main - magic of numbers
  * write your line of code here...
  * remember:
  * main - magic of numbers
