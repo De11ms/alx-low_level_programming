@@ -42,9 +42,3 @@ int is_prime_number(int n)
 		return (helperfunction(n, 2));
 	}
 }
-
-
-		
-	
-         
-

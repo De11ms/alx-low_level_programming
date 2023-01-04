@@ -3,8 +3,8 @@
 /**
  * helperfunction - checks if square root of number exists
  * @num: number
- * @sqrt: possible square root of number
- * Return: sqrt of number or -1 for error
+ * @psqrt: possible square root of number
+ * Return: psqrt of number or -1 for error
  */
 int helperfunction(int num, int psqrt)
 {
@@ -22,8 +22,7 @@ int helperfunction(int num, int psqrt)
 }
 /**
  * _sqrt_recursion - returns the natural square root of number
- * @n: number to find square root of 
- *
+ * @n: number to find square root of number
  * Return: square root of n
  *        -1 if n does not have a natural number sqrt
  */
