@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - print
+ * print_times_table - print
  * @n: number of times
  */
  
