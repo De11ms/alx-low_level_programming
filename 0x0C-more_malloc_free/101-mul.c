@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
+#include <unistd.h>
 
 #define ERR_MSG "Error"
 
