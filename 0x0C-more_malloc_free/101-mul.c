@@ -10,6 +10,7 @@
  *
  * Return: 0 if non digit is found, 1 otherwise
  */
+
 int is_digit(char *s)
 {
 	int i = 0;
@@ -95,7 +96,7 @@ int main(int argc, char *argv[])
 			_putchar(result[i] + '0');
 	}
 	if(!a)
-		_putchar('\0');
+		_putchar('0');
 	_putchar('\n');
 	free(result);
 	return(0);
